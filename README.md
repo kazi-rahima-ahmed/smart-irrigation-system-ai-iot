@@ -1,6 +1,6 @@
 # 🌿 Smart Irrigation System – AI + IoT
 
-A DIU-funded research project that uses **Machine Learning**, **IoT Sensors**, and **Automation** to water plants based on real-time soil moisture data.
+A DIU-funded research project that uses **Machine Learning**, **IoT Sensors**, and **Automation** to automate smart irrigation for sustainable agriculture.
 
 > 🚀 Our mission: To make farming more efficient, water-smart, and sustainable using modern tech.
 
@@ -33,11 +33,9 @@ smart-irrigation-system-ai-iot/ ├── arduino/ # Arduino .ino code for pump 
 ### 🖼 What it looks like:
 *(I'll add pictures soon here)*
 
-### 🧠 Why I built this:
-- I wanted to help farmers save water
-- I wanted to learn AI + hardware together
+---
 
 ### 💌 Made by:
-**Kazi Rahima Ahmed**  
+**Team OSMAN**  
 📬 kazirahimaahmed@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/kazi-rahima-ahmed)
