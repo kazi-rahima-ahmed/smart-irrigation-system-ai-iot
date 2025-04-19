@@ -1,29 +1,31 @@
-# 🌿 Smart Irrigation System – AI + IoT
+# 🌿 Smart Irrigation System – Funded AI + IoT Project
 
-A DIU-funded research project that uses **Machine Learning**, **IoT Sensors**, and **Automation** to automate smart irrigation for sustainable agriculture.
+📅 **Nov 2024 – Present**  
+🔧 **Role:** Developer & Researcher  
+🎓 Funded by Future DIU
+
+This project is a Daffodil International University-funded commercial prototype using **Machine Learning (ML)** and **IoT sensors** to automate irrigation and optimize water usage for sustainable agriculture.
 
 > 🚀 Our mission: To make farming more efficient, water-smart, and sustainable using modern tech.
 
 ---
 
-## 🧠 What It Does
-- Measures soil moisture using sensors
-- Predicts when to water using a machine learning model
-- Automatically turns water pump ON/OFF using microcontrollers
-- Records data in a simple database
-- Sends real-time alerts or logs via dashboard or email
+## 🧠 Features
+- Real-time soil moisture sensing
+- AI-based decision-making using a trained ML model
+- Automation logic to turn pumps ON/OFF
+- Data storage and dashboard using MySQL + Google Apps Script
 
 ---
 
 ## 🔧 Technologies Used
 
-| Area | Tools |
-|------|-------|
-| Programming | Python, Arduino (C++), Google Apps Script |
-| AI / ML | Scikit-learn, Pandas, NumPy |
-| Hardware | Raspberry Pi, NodeMCU, Moisture Sensor, Relay Module |
-| DB / Automation | MySQL, Google Sheets, Automation APIs |
-| Circuit Design | Tinkercad, Fritzing |
+- Raspberry Pi, Arduino
+- Python, C++
+- MySQL, Google Apps Script
+- Machine Learning (scikit-learn)
+- IoT Sensors: Moisture, Temperature
+- Automation Tools and Circuitry
 
 ---
 
@@ -32,6 +34,23 @@ smart-irrigation-system-ai-iot/ ├── arduino/ # Arduino .ino code for pump 
 
 ### 🖼 What it looks like:
 *(I'll add pictures soon here)*
+
+---
+
+---
+
+## 🏆 Achievements
+- **Phase 01:** Hardware automation completed and field-tested
+- **Phase 02:** ML + IoT integration in progress for commercial deployment
+- Secured **funding from Future DIU** for commercialization
+- Demonstrated to DIU Founder & Chairman, Dr. Md. Sabur Khan, as a scalable agri-tech solution
+
+---
+
+## 📝 Publication (In Progress)
+**Title:** Implementing Smart Irrigation System: Real-time Moisture-Dependent Decision-making for Irrigation through AI-based Weather Station  
+**Authors:** Kazi Rahima Ahmed, Methon Kumar Biswas, Sethi Das  
+**Status:** Manuscript in preparation 
 
 ---
 
