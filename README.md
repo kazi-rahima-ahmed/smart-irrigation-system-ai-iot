@@ -30,8 +30,17 @@ A **commercial prototype** designed to revolutionize sustainable agriculture by 
 ---
 
 ## 📂 Project Structure
-smart-irrigation-system-ai-iot/ ├── arduino/          # Arduino .ino code for pump control ├── scripts/          # Python ML scripts & sensor integration ├── models/           # Trained ML models ├── data/             # Sample sensor datasets ├── images/           # Circuit diagrams & dashboard screenshots ├── README.md         # Project documentation ├── requirements.txt  # Python dependencies └── LICENSE
 
+smart-irrigation-system-ai-iot/
+├── arduino/           # Arduino `.ino` code for pump control
+├── scripts/           # Python ML scripts & sensor integration
+├── models/            # Trained machine learning models
+├── data/              # Sample sensor datasets
+├── images/            # Circuit diagrams & dashboard screenshots
+├── README.md          # Project documentation
+├── requirements.txt   # Python dependencies
+└── LICENSE            # License information
+```
 
 ---
 
