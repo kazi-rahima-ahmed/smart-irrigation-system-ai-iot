@@ -54,9 +54,10 @@ smart-irrigation-system-ai-iot/ ├── arduino/ # Arduino .ino code for pump 
 
 Capstone Project/Thesis Topic: Implementing Smart Irrigation System: Real-time moisture-dependent decision-making for Irrigation through AI-based weather station
 **Authors:** Kazi Rahima Ahmed, Methon Kumar Biswas, Sethi Das  
- 
+
 Future DIU Funded Project Name:  Smart Irrigation System in Bangladesh - A New Era for DIU Agro: Real-Time Moisture-Dependent Smart Irrigation System Using Sprinkler
 **Team OSMAN Members:** Kazi Rahima Ahmed, Md. Awsaf Iqbal Chowdhury, Methon Kumar Biswas, Sethi Das, Noushad Uddin Tanvir
+
 ---
 
 ### 💌 Made by:
