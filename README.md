@@ -31,7 +31,7 @@ A **commercial prototype** designed to revolutionize sustainable agriculture by 
 
 ## 📂 Project Structure
 
-Due to confidentiality constraints, source code and full architecture are not publicly shared. However, the following structure outlines the modular components developed during the project lifecycle:
+⚠️ Due to institutional confidentiality and data protection agreements, full system architecture and source code are not publicly disclosed. However, the following breakdown outlines the modular components developed throughout the project lifecycle to signal scope and execution:
 
 smart-irrigation-system-ai-iot/  
 ├── arduino/           # Pump control logic (confidential)  
