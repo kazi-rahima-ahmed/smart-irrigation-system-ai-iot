@@ -53,8 +53,8 @@ smart-irrigation-system-ai-iot/
 ## 🖼 Visuals & Demonstration  
 Due to confidentiality constraints, source code and full architecture are not publicly shared. However, the following visuals demonstrate system functionality, hardware integration, and real-world deployment:
 
-- 📸 **Photo Gallery**: View on Facebook  
-- 🎥 **Demo Video**: Watch on Facebook  
+- 📸 **Photo Gallery**: [View on Facebook](https://www.facebook.com/share/p/19dh95c9H9/)
+- 🎥 **Demo Video**: [Watch on Facebook](https://www.facebook.com/YOUR_VIDEO_LINK) 
 - 📈 *49K+ views · 800+ reactions · Public demo presented to DIU Founder Dr. Md. Sabur Khan*
 
 ---
