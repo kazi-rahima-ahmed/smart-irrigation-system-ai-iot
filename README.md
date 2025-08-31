@@ -89,12 +89,16 @@ This project was developed by **TEAM OSMAN**, a multidisciplinary student team a
 
 ---
 
-## 🤝 Let’s Collaborate  
-I'm actively seeking remote-first opportunities and global collaborations in AI, IoT, and embedded systems. If you’re a:
+## 🚀 Deployment & Collaboration
 
-- 🌍 Founder or researcher working on smart infrastructure  
-- 🧪 Mentor in AI/ML or hardware-software integration  
-- 📝 Publisher or blogger interested in technical storytelling  
+Looking to deploy this system, adapt it to your region, or integrate it into a larger infrastructure?
 
-Feel free to connect via 🔗 **LinkedIn:** [linkedin.com/in/kazi-rahima-ahmed](https://linkedin.com/in/kazi-rahima-ahmed) or 📧 email me at [kazirahimaahmed@gmail.com](mailto:kazirahimaahmed@gmail.com)
+We're open to:
+- 🤝 **Collaborations** with founders, researchers, and NGOs
+- 💼 **Paid deployments** for smart agriculture, water management, or IoT pilots
+
+Let’s build something impactful—grounded in execution, not just ideas.
+
+📧 **Email:** [kazirahimaahmed@gmail.com](mailto:kazirahimaahmed@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/kazi-rahima-ahmed](https://linkedin.com/in/kazi-rahima-ahmed)
 
