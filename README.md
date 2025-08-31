@@ -31,20 +31,30 @@ A **commercial prototype** designed to revolutionize sustainable agriculture by 
 
 ## 📂 Project Structure
 
-smart-irrigation-system-ai-iot/
-├── arduino/           # Arduino `.ino` code for pump control
-├── scripts/           # Python ML scripts & sensor integration
-├── models/            # Trained machine learning models
-├── data/              # Sample sensor datasets
-├── images/            # Circuit diagrams & dashboard screenshots
-├── README.md          # Project documentation
-├── requirements.txt   # Python dependencies
-└── LICENSE            # License information
+Due to confidentiality constraints, source code and full architecture are not publicly shared. However, the following structure outlines the modular components developed during the project lifecycle:
+
+smart-irrigation-system-ai-iot/  
+├── arduino/           # Pump control logic (confidential)  
+├── scripts/           # Sensor integration & ML pipeline (confidential)  
+├── models/            # Trained machine learning models (confidential)  
+├── data/              # Sensor datasets (sample available upon request)  
+├── images/            # Circuit diagrams, dashboard screenshots, field deployment photos  
+├── README.md          # Project overview & documentation  
+└── LICENSE            # License information (non-code assets only)
+
+> 🔒 *Detailed implementation available upon request for vetted collaborators or mentors.*
 
 ---
 
-## 🖼 Visuals
-*(To be added: circuit diagrams, system flowcharts, dashboard previews, and field deployment photos.)*
+## 🖼 Visuals & Demonstration
+
+Due to confidentiality constraints, source code and full architecture are not publicly shared. However, the following visuals demonstrate system functionality, hardware integration, and real-world deployment.
+
+📸 **Photo Gallery:** [View on Facebook](https://www.facebook.com/share/p/19dh95c9H9/)  
+🎥 **Demo Video:** [Watch on Facebook](https://www.facebook.com/YOUR_VIDEO_LINK)  
+> 📈 *49K+ views · 800+ reactions · Public demo presented to DIU Founder Dr. Md. Sabur Khan*
+
+> 🧠 *Built for real-world impact: moisture-dependent irrigation logic, AI-powered automation, and scalable agri-tech deployment.*
 
 ---
 
