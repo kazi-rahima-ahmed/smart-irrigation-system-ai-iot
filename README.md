@@ -96,5 +96,5 @@ I'm actively seeking remote-first opportunities and global collaborations in AI,
 - 🧪 Mentor in AI/ML or hardware-software integration  
 - 📝 Publisher or blogger interested in technical storytelling  
 
-Feel free to connect via 🔗 **LinkedIn:** [linkedin.com/in/kazi-rahima-ahmed](https://linkedin.com/in/kazi-rahima-ahmed) or email me at or 📧 email me at [kazirahimaahmed@gmail.com](mailto:kazirahimaahmed@gmail.com)
+Feel free to connect via 🔗 **LinkedIn:** [linkedin.com/in/kazi-rahima-ahmed](https://linkedin.com/in/kazi-rahima-ahmed) or 📧 email me at [kazirahimaahmed@gmail.com](mailto:kazirahimaahmed@gmail.com)
 
