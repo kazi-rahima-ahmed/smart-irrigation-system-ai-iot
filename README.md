@@ -82,7 +82,19 @@ Due to confidentiality constraints, source code and full architecture are not pu
 
 ---
 
-### 💌 Made by:
-**Team OSMAN**  
-📬 **Email:** [kazirahimaahmed@gmail.com](mailto:kazirahimaahmed@gmail.com)  
+### 👥 Built By TEAM OSMAN  
+This project was developed by **TEAM OSMAN**, a multidisciplinary student team at **Daffodil International University**. We combined expertise in AI, IoT, embedded systems, and sustainable design to deliver a real-world solution for smart agriculture.
+
+> Special thanks to all team members for their contributions across hardware integration, ML modeling, cloud automation, and field deployment.
+
+---
+
+## 🤝 Let’s Collaborate  
+I'm actively seeking remote-first opportunities and global collaborations in AI, IoT, and embedded systems. If you’re a:
+
+- 🌍 Founder or researcher working on smart infrastructure  
+- 🧪 Mentor in AI/ML or hardware-software integration  
+- 📝 Publisher or blogger interested in technical storytelling  
+
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/kazi-rahima-ahmed/) or email me at kazi.rahima.ahmed@gmail.com.
 🔗 **LinkedIn:** [linkedin.com/in/kazi-rahima-ahmed](https://linkedin.com/in/kazi-rahima-ahmed)
