@@ -25,12 +25,12 @@ Enable **water‑smart agriculture** through intelligent, automated irrigation t
 | Domain              | Tools & Components                                      |
 |---------------------|---------------------------------------------------------|
 | Hardware            | Raspberry Pi, Arduino                                   |
-| Programming         | Python, C++                                             |
+| Programming         | Python, C                                               |
 | Databases           | MySQL                                                   |
 | Automation & UI     | Google Apps Script                                      |
 | Machine Learning    | scikit-learn                                            |
 | Sensors             | Soil moisture, temperature                              |
-| Electronics         | Automation circuitry for pump relay control            |
+| Electronics         | Automation circuitry for pump relay control             |
 
 ---
 
